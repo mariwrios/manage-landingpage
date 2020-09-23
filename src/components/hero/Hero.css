@@ -1,0 +1,31 @@
+.Hero__container {
+  height: 75vh;
+  display: flex;
+  justify-content: center;
+}
+
+.Hero__container h1 {
+  font-size: 2em;
+}
+
+.Hero__info {
+  width: 40vw;
+}
+
+.Hero__info h1 {
+  font-size: 4vw;
+  color: hsl(233, 12%, 13%);
+}
+
+.Hero__info p {
+  width: 26.5vw;
+  font-weight: 500;
+  font-size: 1.2em;
+  margin-bottom: 4vw;
+  color: hsl(227, 12%, 61%);
+}
+
+.Hero__container img {
+  height: 45vw;
+  max-height: 630px;
+}

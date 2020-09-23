@@ -1,0 +1,16 @@
+.navbar {
+  height: 10vw;
+  display: flex;
+  padding: 3vw 10vw;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar__menu {
+  display: flex;
+}
+
+.navbar__menu li {
+  list-style: none;
+  margin: 0px 2vw;
+}
